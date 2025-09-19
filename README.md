@@ -71,7 +71,7 @@ PAG41EXK.ALG → Verifica se um valor de entrada é menor que 4. Se for, exibe o
 PAG41EXL.ALG → Solicita o nome e o sexo (F ou M) de uma pessoa. Com base no sexo, exibe uma saudação formal, "Ilma Sra." para mulheres e "Ilmo Sr." para homens.
 
 
-# Página 46
+# Página 46 (Laço enquanto)
 
 PAG46EXA.ALG → Calcula e exibe a tabuada de um número de 1 a 10, que é inserido pelo usuário.
 
@@ -98,7 +98,7 @@ PAG46EXK.ALG → Calcula a área total de uma residência por cômodo.
 PAG46EXL.ALG → Lê inteiros positivos até um número negativo, e então apresenta o maior e o menor valor informado.
 
 
-# Página 50
+# Página 50 (Laço repita)
 
 PAG50EXA.ALG → Apresenta os valores quadráticos de 15 a 200.
 
@@ -109,4 +109,38 @@ PAG50EXC.ALG → Exibe os valores divisíveis por 4 de 1 a 200.
 PAG50EXD.ALG → Calcula a quantidade de grãos de trigo em um tabuleiro de xadrez.
 
 PAG50EXE.ALG → Calcula o fatorial dos números desejados e a soma dos valores.
+
+PAG50EXF.ALG → Soma valores até que um número negativo seja digitado.
+
+PAG50EXG.ALG → Calcula o fatorial de números ímpares de 1 a 10.
+
+PAG50EXH.ALG → Calcula a área total de uma residência, somando a área de vários cômodos.
+
+PAG50EXI.ALG → Encontra o maior e o menor valor de uma sequência de números positivos fornecidos pelo usuário.
+
+PAG50EXJ.ALG → Calcula o quociente inteiro de uma divisão sem usar o operador de divisão.
+
+# Página 66 (Laço para)
+
+PAG66EXA.ALG → Apresenta os quadrados dos números inteiros de 15 a 200.
+
+PAG66EXB.ALG → Gera e exibe a tabuada de um número fornecido pelo usuário, de 0 a 10.
+
+PAG66EXC.ALG → Apresenta a soma dos cem primeiros números inteiros.
+
+PAG66EXD.ALG → Calcula e exibe o somatório dos valores pares de 1 a 500.
+
+PAG66EXE.ALG → Lista todos os números inteiros ímpares na faixa de 0 a 20.
+
+PAG66EXF.ALG → Lista todos os números divisíveis por 4 que são menores que 200.
+
+PAG66EXG.ALG → Apresenta os resultados das potências de 3, com expoentes de 0 a 15.
+
+PAG66EXH.ALG → Calcula uma base elevada a um expoente máximo desejado pelo usuário.
+
+PAG66EXI.ALG → Gera e exibe os 15 primeiros termos da sequência de Fibonacci.
+
+PAG66EXJ.ALG → Converte e exibe temperaturas de Celsius para Fahrenheit em incrementos de 10, de 10°C a 100°C.
+
+PAG66EXK.ALG → Calcula e mostra o fatorial de cada número ímpar no intervalo de 1 a 10.
 
