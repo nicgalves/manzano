@@ -89,24 +89,24 @@ PAG46EXG.ALG → Gera e exibe os 15 primeiros termos da sequência de Fibonacci.
 
 PAG46EXH.ALG → Converte temperaturas de Celsius para Fahrenheit de 10° a 100°, com incrementos de 10°.
 
-PAG46EXI.ALG: Soma 10 valores e calcula a média aritmética deles.
+PAG46EXI.ALG → Soma 10 valores e calcula a média aritmética deles.
 
-PAG46EXJ.ALG: Soma os valores pares de 50 a 70 e faz a média aritmética deles.
+P0AG46EXJ.ALG → Soma os valores pares de 50 a 70 e faz a média aritmética deles.
 
-PAG46EXK.ALG: Calcula a área total de uma residência por cômodo.
+PAG46EXK.ALG → Calcula a área total de uma residência por cômodo.
 
-PAG46EXL.ALG: Lê inteiros positivos até um número negativo, e então apresenta o maior e o menor valor informado.
+PAG46EXL.ALG → Lê inteiros positivos até um número negativo, e então apresenta o maior e o menor valor informado.
 
 
 # Página 50
 
-PAG50EXA.ALG: Apresenta os valores quadráticos de 15 a 200.
+PAG50EXA.ALG → Apresenta os valores quadráticos de 15 a 200.
 
-PAG50EXB.ALG: Soma os valores pares de 1 a 500.
+PAG50EXB.ALG → Soma os valores pares de 1 a 500.
 
-PAG50EXC.ALG: Exibe os valores divisíveis por 4 de 1 a 200.
+PAG50EXC.ALG → Exibe os valores divisíveis por 4 de 1 a 200.
 
-PAG50EXD.ALG: Calcula a quantidade de grãos de trigo em um tabuleiro de xadrez.
+PAG50EXD.ALG → Calcula a quantidade de grãos de trigo em um tabuleiro de xadrez.
 
-PAG50EXE.ALG: Calcula o fatorial dos números desejados e a soma dos valores.
+PAG50EXE.ALG → Calcula o fatorial dos números desejados e a soma dos valores.
 
